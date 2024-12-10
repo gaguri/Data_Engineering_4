@@ -1,0 +1,642 @@
+[
+ {
+  "id": 1874,
+  "artist": "zedd",
+  "song": "the middle",
+  "duration_ms": 184732,
+  "year": 2018,
+  "tempo": 107.01,
+  "genre": "hip hop, pop, dance/electronic",
+  "instrumentalness": 0.437
+ },
+ {
+  "id": 126,
+  "artist": "zayn",
+  "song": "i don’t wanna live forever (fifty shades darker) - from \"fifty shades darker (original motion picture soundtrack)\"",
+  "duration_ms": 245200,
+  "year": 2016,
+  "tempo": 117.973,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.0862
+ },
+ {
+  "id": 667,
+  "artist": "zayn",
+  "song": "dusk till dawn (feat. sia) - radio edit",
+  "duration_ms": 239000,
+  "year": 2017,
+  "tempo": 180.042,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.0951
+ },
+ {
+  "id": 1860,
+  "artist": "zayn",
+  "song": "pillowtalk",
+  "duration_ms": 203686,
+  "year": 2016,
+  "tempo": 124.909,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.429
+ },
+ {
+  "id": 1093,
+  "artist": "zay hilfigerrr",
+  "song": "juju on that beat (tz anthem)",
+  "duration_ms": 144244,
+  "year": 2016,
+  "tempo": 160.517,
+  "genre": "set()",
+  "instrumentalness": 0.78
+ },
+ {
+  "id": 338,
+  "artist": "zara larsson",
+  "song": "ain't my fault",
+  "duration_ms": 224030,
+  "year": 2017,
+  "tempo": 141.153,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.355
+ },
+ {
+  "id": 677,
+  "artist": "zara larsson",
+  "song": "i would like",
+  "duration_ms": 226720,
+  "year": 2017,
+  "tempo": 121.028,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.297
+ },
+ {
+  "id": 906,
+  "artist": "zara larsson",
+  "song": "never forget you",
+  "duration_ms": 213427,
+  "year": 2017,
+  "tempo": 145.992,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.276
+ },
+ {
+  "id": 1164,
+  "artist": "young thug",
+  "song": "the london (feat. j. cole & travis scott)",
+  "duration_ms": 200106,
+  "year": 2019,
+  "tempo": 97.981,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.179
+ },
+ {
+  "id": 18,
+  "artist": "young t & bugsey",
+  "song": "strike a pose (feat. aitch)",
+  "duration_ms": 214203,
+  "year": 2019,
+  "tempo": 137.776,
+  "genre": "hip hop",
+  "instrumentalness": 0.591
+ },
+ {
+  "id": 174,
+  "artist": "yo gotti",
+  "song": "rake it up (feat. nicki minaj)",
+  "duration_ms": 276333,
+  "year": 2017,
+  "tempo": 149.953,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.53
+ },
+ {
+  "id": 1662,
+  "artist": "yg",
+  "song": "big bank (feat. 2 chainz, big sean, nicki minaj)",
+  "duration_ms": 237240,
+  "year": 2018,
+  "tempo": 203.911,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.112
+ },
+ {
+  "id": 635,
+  "artist": "xxxtentacion",
+  "song": "jocelyn flores",
+  "duration_ms": 119133,
+  "year": 2017,
+  "tempo": 134.021,
+  "genre": "hip hop",
+  "instrumentalness": 0.437
+ },
+ {
+  "id": 1129,
+  "artist": "xxxtentacion",
+  "song": "moonlight",
+  "duration_ms": 135090,
+  "year": 2018,
+  "tempo": 128.009,
+  "genre": "hip hop",
+  "instrumentalness": 0.711
+ },
+ {
+  "id": 1235,
+  "artist": "xxxtentacion",
+  "song": "changes",
+  "duration_ms": 121886,
+  "year": 2018,
+  "tempo": 64.934,
+  "genre": "hip hop",
+  "instrumentalness": 0.52
+ },
+ {
+  "id": 1999,
+  "artist": "xxxtentacion",
+  "song": "sad!",
+  "duration_ms": 166605,
+  "year": 2018,
+  "tempo": 75.023,
+  "genre": "hip hop",
+  "instrumentalness": 0.473
+ },
+ {
+  "id": 448,
+  "artist": "will smith",
+  "song": "switch",
+  "duration_ms": 197666,
+  "year": 2020,
+  "tempo": 102.516,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.478
+ },
+ {
+  "id": 743,
+  "artist": "wiley",
+  "song": "boasty (feat. idris elba)",
+  "duration_ms": 177185,
+  "year": 2019,
+  "tempo": 102.958,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.456
+ },
+ {
+  "id": 1123,
+  "artist": "usher",
+  "song": "pop ya collar - radio edit",
+  "duration_ms": 210813,
+  "year": 2016,
+  "tempo": 106.957,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.866
+ },
+ {
+  "id": 485,
+  "artist": "tyler, the creator",
+  "song": "earfquake",
+  "duration_ms": 190066,
+  "year": 2019,
+  "tempo": 79.635,
+  "genre": "hip hop",
+  "instrumentalness": 0.413
+ },
+ {
+  "id": 114,
+  "artist": "tyga",
+  "song": "taste (feat. offset)",
+  "duration_ms": 232959,
+  "year": 2018,
+  "tempo": 97.994,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.342
+ },
+ {
+  "id": 568,
+  "artist": "twenty one pilots",
+  "song": "heathens",
+  "duration_ms": 195920,
+  "year": 2016,
+  "tempo": 90.024,
+  "genre": "rock",
+  "instrumentalness": 0.548
+ },
+ {
+  "id": 754,
+  "artist": "travis scott",
+  "song": "sicko mode",
+  "duration_ms": 312820,
+  "year": 2018,
+  "tempo": 155.008,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.446
+ },
+ {
+  "id": 1343,
+  "artist": "travis scott",
+  "song": "butterfly effect",
+  "duration_ms": 190677,
+  "year": 2017,
+  "tempo": 140.987,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.182
+ },
+ {
+  "id": 1913,
+  "artist": "travis scott",
+  "song": "sicko mode",
+  "duration_ms": 312820,
+  "year": 2018,
+  "tempo": 155.008,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.446
+ },
+ {
+  "id": 1995,
+  "artist": "travis scott",
+  "song": "goosebumps",
+  "duration_ms": 243836,
+  "year": 2016,
+  "tempo": 130.049,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.43
+ },
+ {
+  "id": 893,
+  "artist": "tove lo",
+  "song": "cool girl",
+  "duration_ms": 197815,
+  "year": 2016,
+  "tempo": 101.983,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.234
+ },
+ {
+  "id": 187,
+  "artist": "tory lanez",
+  "song": "luv",
+  "duration_ms": 228640,
+  "year": 2016,
+  "tempo": 95.109,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.247
+ },
+ {
+  "id": 279,
+  "artist": "tory lanez",
+  "song": "say it",
+  "duration_ms": 237786,
+  "year": 2016,
+  "tempo": 107.331,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.247
+ },
+ {
+  "id": 658,
+  "artist": "tones and i",
+  "song": "dance monkey",
+  "duration_ms": 209438,
+  "year": 2019,
+  "tempo": 98.027,
+  "genre": "pop",
+  "instrumentalness": 0.513
+ },
+ {
+  "id": 874,
+  "artist": "tom walker",
+  "song": "leave a light on",
+  "duration_ms": 185863,
+  "year": 2017,
+  "tempo": 68.976,
+  "genre": "rock, pop",
+  "instrumentalness": 0.267
+ },
+ {
+  "id": 341,
+  "artist": "tiësto",
+  "song": "jackie chan",
+  "duration_ms": 215759,
+  "year": 2018,
+  "tempo": 128.005,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.687
+ },
+ {
+  "id": 1134,
+  "artist": "tinie tempah",
+  "song": "girls like (feat. zara larsson)",
+  "duration_ms": 196000,
+  "year": 2016,
+  "tempo": 120.028,
+  "genre": "hip hop, pop, dance/electronic",
+  "instrumentalness": 0.538
+ },
+ {
+  "id": 368,
+  "artist": "the weeknd",
+  "song": "pray for me (with kendrick lamar)",
+  "duration_ms": 211440,
+  "year": 2018,
+  "tempo": 100.584,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.188
+ },
+ {
+  "id": 582,
+  "artist": "the weeknd",
+  "song": "i feel it coming",
+  "duration_ms": 269186,
+  "year": 2016,
+  "tempo": 92.987,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.585
+ },
+ {
+  "id": 1728,
+  "artist": "the weeknd",
+  "song": "starboy",
+  "duration_ms": 230453,
+  "year": 2016,
+  "tempo": 186.054,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.535
+ },
+ {
+  "id": 1991,
+  "artist": "the weeknd",
+  "song": "call out my name",
+  "duration_ms": 228373,
+  "year": 2018,
+  "tempo": 134.17,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.175
+ },
+ {
+  "id": 1150,
+  "artist": "the vamps",
+  "song": "all night",
+  "duration_ms": 197640,
+  "year": 2017,
+  "tempo": 144.992,
+  "genre": "pop",
+  "instrumentalness": 0.507
+ },
+ {
+  "id": 1788,
+  "artist": "the vamps",
+  "song": "middle of the night",
+  "duration_ms": 174600,
+  "year": 2017,
+  "tempo": 130.093,
+  "genre": "pop",
+  "instrumentalness": 0.397
+ },
+ {
+  "id": 1840,
+  "artist": "the strumbellas",
+  "song": "spirits",
+  "duration_ms": 203653,
+  "year": 2016,
+  "tempo": 80.529,
+  "genre": "rock, folk/acoustic, pop",
+  "instrumentalness": 0.787
+ },
+ {
+  "id": 645,
+  "artist": "the lumineers",
+  "song": "ophelia",
+  "duration_ms": 160097,
+  "year": 2016,
+  "tempo": 76.026,
+  "genre": "pop, folk/acoustic",
+  "instrumentalness": 0.621
+ },
+ {
+  "id": 9,
+  "artist": "the chainsmokers",
+  "song": "sick boy",
+  "duration_ms": 193200,
+  "year": 2018,
+  "tempo": 89.996,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.454
+ },
+ {
+  "id": 584,
+  "artist": "the chainsmokers",
+  "song": "closer",
+  "duration_ms": 244960,
+  "year": 2016,
+  "tempo": 95.01,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.661
+ },
+ {
+  "id": 713,
+  "artist": "the chainsmokers",
+  "song": "don't let me down",
+  "duration_ms": 208373,
+  "year": 2016,
+  "tempo": 159.803,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.422
+ },
+ {
+  "id": 744,
+  "artist": "the chainsmokers",
+  "song": "something just like this",
+  "duration_ms": 247160,
+  "year": 2017,
+  "tempo": 103.019,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.446
+ },
+ {
+  "id": 1324,
+  "artist": "the chainsmokers",
+  "song": "paris",
+  "duration_ms": 221506,
+  "year": 2017,
+  "tempo": 99.99,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.219
+ },
+ {
+  "id": 1606,
+  "artist": "the chainsmokers",
+  "song": "this feeling",
+  "duration_ms": 197946,
+  "year": 2018,
+  "tempo": 105.049,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.449
+ },
+ {
+  "id": 656,
+  "artist": "taylor swift",
+  "song": "cruel summer",
+  "duration_ms": 178426,
+  "year": 2019,
+  "tempo": 169.994,
+  "genre": "pop",
+  "instrumentalness": 0.564
+ },
+ {
+  "id": 747,
+  "artist": "taylor swift",
+  "song": "look what you made me do",
+  "duration_ms": 211853,
+  "year": 2017,
+  "tempo": 128.07,
+  "genre": "pop",
+  "instrumentalness": 0.506
+ },
+ {
+  "id": 1190,
+  "artist": "taylor swift",
+  "song": "...ready for it?",
+  "duration_ms": 208186,
+  "year": 2017,
+  "tempo": 160.015,
+  "genre": "pop",
+  "instrumentalness": 0.417
+ },
+ {
+  "id": 1292,
+  "artist": "t2",
+  "song": "heartbroken - edit",
+  "duration_ms": 178613,
+  "year": 2017,
+  "tempo": 139.986,
+  "genre": "dance/electronic",
+  "instrumentalness": 0.877
+ },
+ {
+  "id": 1705,
+  "artist": "t.a.t.u.",
+  "song": "all the things she said",
+  "duration_ms": 214440,
+  "year": 2020,
+  "tempo": 179.92,
+  "genre": "pop",
+  "instrumentalness": 0.381
+ },
+ {
+  "id": 2,
+  "artist": "stormzy",
+  "song": "vossi bop",
+  "duration_ms": 196266,
+  "year": 2019,
+  "tempo": 188.115,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.428
+ },
+ {
+  "id": 676,
+  "artist": "steve aoki",
+  "song": "just hold on",
+  "duration_ms": 198774,
+  "year": 2016,
+  "tempo": 114.991,
+  "genre": "hip hop, pop, dance/electronic",
+  "instrumentalness": 0.374
+ },
+ {
+  "id": 1828,
+  "artist": "starley",
+  "song": "call on me - ryan riback remix",
+  "duration_ms": 222040,
+  "year": 2016,
+  "tempo": 105.0,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.716
+ },
+ {
+  "id": 172,
+  "artist": "sofía reyes",
+  "song": "1, 2, 3 (feat. jason derulo & de la ghetto)",
+  "duration_ms": 201526,
+  "year": 2018,
+  "tempo": 94.968,
+  "genre": "pop, latin",
+  "instrumentalness": 0.794
+ },
+ {
+  "id": 1483,
+  "artist": "sigala",
+  "song": "wish you well",
+  "duration_ms": 205653,
+  "year": 2019,
+  "tempo": 124.975,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.576
+ },
+ {
+  "id": 1942,
+  "artist": "sigala",
+  "song": "easy love",
+  "duration_ms": 229813,
+  "year": 2018,
+  "tempo": 123.976,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.647
+ },
+ {
+  "id": 153,
+  "artist": "sia",
+  "song": "the greatest (feat. kendrick lamar)",
+  "duration_ms": 210226,
+  "year": 2016,
+  "tempo": 191.944,
+  "genre": "pop",
+  "instrumentalness": 0.729
+ },
+ {
+  "id": 523,
+  "artist": "sia",
+  "song": "cheap thrills (feat. sean paul)",
+  "duration_ms": 224813,
+  "year": 2016,
+  "tempo": 89.972,
+  "genre": "pop",
+  "instrumentalness": 0.728
+ },
+ {
+  "id": 86,
+  "artist": "sheck wes",
+  "song": "mo bamba",
+  "duration_ms": 183906,
+  "year": 2018,
+  "tempo": 146.034,
+  "genre": "hip hop",
+  "instrumentalness": 0.261
+ },
+ {
+  "id": 374,
+  "artist": "shawn mendes",
+  "song": "there's nothing holdin' me back",
+  "duration_ms": 199440,
+  "year": 2017,
+  "tempo": 121.996,
+  "genre": "pop",
+  "instrumentalness": 0.966
+ },
+ {
+  "id": 611,
+  "artist": "shawn mendes",
+  "song": "señorita",
+  "duration_ms": 190799,
+  "year": 2019,
+  "tempo": 116.967,
+  "genre": "pop",
+  "instrumentalness": 0.749
+ },
+ {
+  "id": 1073,
+  "artist": "shawn mendes",
+  "song": "treat you better",
+  "duration_ms": 187973,
+  "year": 2017,
+  "tempo": 82.695,
+  "genre": "pop",
+  "instrumentalness": 0.747
+ }
+]

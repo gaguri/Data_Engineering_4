@@ -1,0 +1,112 @@
+[
+ {
+  "id": 51,
+  "name": "elegant hammer",
+  "price": 73.14,
+  "quantity": 717,
+  "fromCity": "Санхенхо",
+  "isAvailable": 0,
+  "views": 27893,
+  "category": "tools",
+  "update_count": 0
+ },
+ {
+  "id": 69,
+  "name": "luxurious deodorant",
+  "price": 26.7,
+  "quantity": 730,
+  "fromCity": "Кишинев",
+  "isAvailable": 0,
+  "views": 55674,
+  "category": "cosmetics",
+  "update_count": 0
+ },
+ {
+  "id": 94,
+  "name": "pleasant orange",
+  "price": 15.75,
+  "quantity": 950,
+  "fromCity": "Будапешт",
+  "isAvailable": 0,
+  "views": 11378,
+  "category": "fruit",
+  "update_count": 0
+ },
+ {
+  "id": 97,
+  "name": "pleasant baseboard",
+  "price": 59.55,
+  "quantity": 867,
+  "fromCity": "Тарраса",
+  "isAvailable": 0,
+  "views": 98503,
+  "category": "tools",
+  "update_count": 0
+ },
+ {
+  "id": 110,
+  "name": "refined facial cleanser",
+  "price": 10.27,
+  "quantity": 520,
+  "fromCity": "Касерес",
+  "isAvailable": 0,
+  "views": 20700,
+  "category": "cosmetics",
+  "update_count": 0
+ },
+ {
+  "id": 115,
+  "name": "pleasant nail file",
+  "price": 31.53,
+  "quantity": 936,
+  "fromCity": "Трухильо",
+  "isAvailable": 0,
+  "views": 41252,
+  "category": "cosmetics",
+  "update_count": 0
+ },
+ {
+  "id": 136,
+  "name": "superb tape measure",
+  "price": 40.15,
+  "quantity": 684,
+  "fromCity": "Тудела",
+  "isAvailable": 0,
+  "views": 96759,
+  "category": "tools",
+  "update_count": 0
+ },
+ {
+  "id": 141,
+  "name": "exquisite hammer",
+  "price": 96.68,
+  "quantity": 532,
+  "fromCity": "Прага",
+  "isAvailable": 0,
+  "views": 28140,
+  "category": "tools",
+  "update_count": 0
+ },
+ {
+  "id": 154,
+  "name": "attractive makeup remover",
+  "price": 26.73,
+  "quantity": 686,
+  "fromCity": "Рига",
+  "isAvailable": 0,
+  "views": 47200,
+  "category": "cosmetics",
+  "update_count": 0
+ },
+ {
+  "id": 13,
+  "name": "nice deodorant",
+  "price": 11.75,
+  "quantity": 842,
+  "fromCity": "Эль-Пуэрто-де-Санта-Мария",
+  "isAvailable": 0,
+  "views": 52083,
+  "category": "cosmetics",
+  "update_count": 1
+ }
+]

@@ -1,0 +1,472 @@
+[
+ {
+  "name": "Эскалатор 40",
+  "max_rating": 5.0,
+  "comments": 76
+ },
+ {
+  "name": "Школа 99",
+  "max_rating": 5.0,
+  "comments": 70
+ },
+ {
+  "name": "Школа 1",
+  "max_rating": 5.0,
+  "comments": 87
+ },
+ {
+  "name": "Хаус 24",
+  "max_rating": 5.0,
+  "comments": 73
+ },
+ {
+  "name": "Утятник 81",
+  "max_rating": 5.0,
+  "comments": 62
+ },
+ {
+  "name": "Утятник 33",
+  "max_rating": 5.0,
+  "comments": 92
+ },
+ {
+  "name": "Утятник 20",
+  "max_rating": 5.0,
+  "comments": 49
+ },
+ {
+  "name": "Убежище 97",
+  "max_rating": 5.0,
+  "comments": 84
+ },
+ {
+  "name": "Убежище 25",
+  "max_rating": 5.0,
+  "comments": 59
+ },
+ {
+  "name": "Торговый центр 61",
+  "max_rating": 5.0,
+  "comments": 101
+ },
+ {
+  "name": "Торговый центр 36",
+  "max_rating": 5.0,
+  "comments": 53
+ },
+ {
+  "name": "Тоннель 51",
+  "max_rating": 5.0,
+  "comments": 84
+ },
+ {
+  "name": "Термитник 82",
+  "max_rating": 5.0,
+  "comments": 90
+ },
+ {
+  "name": "Теплотрасса 38",
+  "max_rating": 5.0,
+  "comments": 77
+ },
+ {
+  "name": "Театр 81",
+  "max_rating": 5.0,
+  "comments": 84
+ },
+ {
+  "name": "Театр 59",
+  "max_rating": 5.0,
+  "comments": 90
+ },
+ {
+  "name": "Склад 98",
+  "max_rating": 5.0,
+  "comments": 75
+ },
+ {
+  "name": "Сеть 2",
+  "max_rating": 5.0,
+  "comments": 79
+ },
+ {
+  "name": "Свиноферма 82",
+  "max_rating": 5.0,
+  "comments": 46
+ },
+ {
+  "name": "Развязка 93",
+  "max_rating": 5.0,
+  "comments": 66
+ },
+ {
+  "name": "Развязка 56",
+  "max_rating": 5.0,
+  "comments": 81
+ },
+ {
+  "name": "Почта 19",
+  "max_rating": 5.0,
+  "comments": 84
+ },
+ {
+  "name": "Плантация 95",
+  "max_rating": 5.0,
+  "comments": 52
+ },
+ {
+  "name": "Пирс 68",
+  "max_rating": 5.0,
+  "comments": 57
+ },
+ {
+  "name": "Пирс 25",
+  "max_rating": 5.0,
+  "comments": 75
+ },
+ {
+  "name": "Пасека 24",
+  "max_rating": 5.0,
+  "comments": 50
+ },
+ {
+  "name": "Парк 55",
+  "max_rating": 5.0,
+  "comments": 72
+ },
+ {
+  "name": "Пандус 16",
+  "max_rating": 5.0,
+  "comments": 70
+ },
+ {
+  "name": "Офис 59",
+  "max_rating": 5.0,
+  "comments": 80
+ },
+ {
+  "name": "Особняк 88",
+  "max_rating": 5.0,
+  "comments": 58
+ },
+ {
+  "name": "Нора 29",
+  "max_rating": 5.0,
+  "comments": 61
+ },
+ {
+  "name": "Нефтепровод 97",
+  "max_rating": 5.0,
+  "comments": 83
+ },
+ {
+  "name": "Нефтепровод 17",
+  "max_rating": 5.0,
+  "comments": 98
+ },
+ {
+  "name": "Мушиный лабиринт 50",
+  "max_rating": 5.0,
+  "comments": 56
+ },
+ {
+  "name": "Мостки 44",
+  "max_rating": 5.0,
+  "comments": 56
+ },
+ {
+  "name": "Маяк 71",
+  "max_rating": 5.0,
+  "comments": 89
+ },
+ {
+  "name": "Магазин 91",
+  "max_rating": 5.0,
+  "comments": 94
+ },
+ {
+  "name": "Лифт 91",
+  "max_rating": 5.0,
+  "comments": 92
+ },
+ {
+  "name": "Ламарий 81",
+  "max_rating": 5.0,
+  "comments": 76
+ },
+ {
+  "name": "Кубло 15",
+  "max_rating": 5.0,
+  "comments": 81
+ },
+ {
+  "name": "Крольчатник 72",
+  "max_rating": 5.0,
+  "comments": 60
+ },
+ {
+  "name": "Крольчатник 46",
+  "max_rating": 5.0,
+  "comments": 69
+ },
+ {
+  "name": "Котельная 83",
+  "max_rating": 5.0,
+  "comments": 93
+ },
+ {
+  "name": "Конюшня 93",
+  "max_rating": 5.0,
+  "comments": 93
+ },
+ {
+  "name": "Конюшня 83",
+  "max_rating": 5.0,
+  "comments": 86
+ },
+ {
+  "name": "Канализация 79",
+  "max_rating": 5.0,
+  "comments": 74
+ },
+ {
+  "name": "Замок 49",
+  "max_rating": 5.0,
+  "comments": 71
+ },
+ {
+  "name": "Завод 19",
+  "max_rating": 5.0,
+  "comments": 68
+ },
+ {
+  "name": "Дуплянка 84",
+  "max_rating": 5.0,
+  "comments": 96
+ },
+ {
+  "name": "Детский сад 30",
+  "max_rating": 5.0,
+  "comments": 52
+ },
+ {
+  "name": "Гусятник 11",
+  "max_rating": 5.0,
+  "comments": 92
+ },
+ {
+  "name": "Гнездо 49",
+  "max_rating": 5.0,
+  "comments": 88
+ },
+ {
+  "name": "Волчатник 29",
+  "max_rating": 5.0,
+  "comments": 100
+ },
+ {
+  "name": "Вокзал 76",
+  "max_rating": 5.0,
+  "comments": 53
+ },
+ {
+  "name": "Виадук 51",
+  "max_rating": 5.0,
+  "comments": 75
+ },
+ {
+  "name": "Верфь 35",
+  "max_rating": 5.0,
+  "comments": 52
+ },
+ {
+  "name": "Бункер 46",
+  "max_rating": 5.0,
+  "comments": 54
+ },
+ {
+  "name": "Борть 53",
+  "max_rating": 5.0,
+  "comments": 65
+ },
+ {
+  "name": "Библиотека 95",
+  "max_rating": 5.0,
+  "comments": 95
+ },
+ {
+  "name": "Банк 52",
+  "max_rating": 5.0,
+  "comments": 104
+ },
+ {
+  "name": "Банк 1",
+  "max_rating": 5.0,
+  "comments": 66
+ },
+ {
+  "name": "Аэропорт 85",
+  "max_rating": 5.0,
+  "comments": 95
+ },
+ {
+  "name": "Аптека 88",
+  "max_rating": 5.0,
+  "comments": 79
+ },
+ {
+  "name": "Автомойка 49",
+  "max_rating": 5.0,
+  "comments": 44
+ },
+ {
+  "name": " Вилла 66",
+  "max_rating": 5.0,
+  "comments": 45
+ },
+ {
+  "name": " Вилла 63",
+  "max_rating": 5.0,
+  "comments": 94
+ },
+ {
+  "name": "Электростанция 89",
+  "max_rating": 4.9,
+  "comments": 65
+ },
+ {
+  "name": "Школа 38",
+  "max_rating": 4.9,
+  "comments": 66
+ },
+ {
+  "name": "Усадьба 74",
+  "max_rating": 4.9,
+  "comments": 84
+ },
+ {
+  "name": "Ресторан 84",
+  "max_rating": 4.9,
+  "comments": 45
+ },
+ {
+  "name": "Подвал 62",
+  "max_rating": 4.9,
+  "comments": 69
+ },
+ {
+  "name": "Плантация 68",
+  "max_rating": 4.9,
+  "comments": 71
+ },
+ {
+  "name": "Пасека 8",
+  "max_rating": 4.9,
+  "comments": 70
+ },
+ {
+  "name": "Отель 31",
+  "max_rating": 4.9,
+  "comments": 49
+ },
+ {
+  "name": "Мост 35",
+  "max_rating": 4.9,
+  "comments": 55
+ },
+ {
+  "name": "Коттедж 22",
+  "max_rating": 4.9,
+  "comments": 64
+ },
+ {
+  "name": "Котельная 22",
+  "max_rating": 4.9,
+  "comments": 58
+ },
+ {
+  "name": "Коровник 31",
+  "max_rating": 4.9,
+  "comments": 55
+ },
+ {
+  "name": "Йодль 3",
+  "max_rating": 4.9,
+  "comments": 61
+ },
+ {
+  "name": "Жилой дом 75",
+  "max_rating": 4.9,
+  "comments": 71
+ },
+ {
+  "name": "Док 27",
+  "max_rating": 4.9,
+  "comments": 43
+ },
+ {
+  "name": "Шмелиное гнездо 26",
+  "max_rating": 4.8,
+  "comments": 58
+ },
+ {
+  "name": "Шале 55",
+  "max_rating": 4.8,
+  "comments": 60
+ },
+ {
+  "name": "Ферма 74",
+  "max_rating": 4.8,
+  "comments": 88
+ },
+ {
+  "name": "Термитник 28",
+  "max_rating": 4.8,
+  "comments": 45
+ },
+ {
+  "name": "Свиноферма 24",
+  "max_rating": 4.8,
+  "comments": 51
+ },
+ {
+  "name": "Замок 86",
+  "max_rating": 4.8,
+  "comments": 95
+ },
+ {
+  "name": "Дворец 70",
+  "max_rating": 4.8,
+  "comments": 57
+ },
+ {
+  "name": "Аэропорт 74",
+  "max_rating": 4.8,
+  "comments": 97
+ },
+ {
+  "name": "Аэропорт 13",
+  "max_rating": 4.8,
+  "comments": 104
+ },
+ {
+  "name": "Волчатник 12",
+  "max_rating": 4.7,
+  "comments": 69
+ },
+ {
+  "name": "Банк 64",
+  "max_rating": 4.7,
+  "comments": 59
+ },
+ {
+  "name": "Банк 43",
+  "max_rating": 4.7,
+  "comments": 47
+ },
+ {
+  "name": "Академия 37",
+  "max_rating": 4.7,
+  "comments": 47
+ }
+]

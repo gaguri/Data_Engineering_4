@@ -1,0 +1,592 @@
+[
+ {
+  "id": 3,
+  "artist": "september",
+  "song": "cry for you",
+  "duration_ms": 209800,
+  "year": 2007,
+  "tempo": 130.018,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.961
+ },
+ {
+  "id": 7,
+  "artist": "sean kingston",
+  "song": "beautiful girls",
+  "duration_ms": 225373,
+  "year": 2007,
+  "tempo": 130.009,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.769
+ },
+ {
+  "id": 10,
+  "artist": "rita ora",
+  "song": "i will never let you down",
+  "duration_ms": 203466,
+  "year": 2014,
+  "tempo": 128.011,
+  "genre": "hip hop, pop, dance/electronic",
+  "instrumentalness": 0.794
+ },
+ {
+  "id": 11,
+  "artist": "sisqo",
+  "song": "thong song",
+  "duration_ms": 253733,
+  "year": 1999,
+  "tempo": 121.549,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.714
+ },
+ {
+  "id": 13,
+  "artist": "selena gomez & the scene",
+  "song": "love you like a love song",
+  "duration_ms": 188453,
+  "year": 2011,
+  "tempo": 117.009,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.922
+ },
+ {
+  "id": 24,
+  "artist": "the roots",
+  "song": "the seed (2.0)",
+  "duration_ms": 267933,
+  "year": 2002,
+  "tempo": 111.121,
+  "genre": "hip hop",
+  "instrumentalness": 0.966
+ },
+ {
+  "id": 26,
+  "artist": "maroon 5",
+  "song": "maps",
+  "duration_ms": 189840,
+  "year": 2014,
+  "tempo": 120.003,
+  "genre": "pop",
+  "instrumentalness": 0.893
+ },
+ {
+  "id": 31,
+  "artist": "madison avenue",
+  "song": "don't call me baby",
+  "duration_ms": 228140,
+  "year": 1999,
+  "tempo": 124.999,
+  "genre": "dance/electronic",
+  "instrumentalness": 0.961
+ },
+ {
+  "id": 33,
+  "artist": "duffy",
+  "song": "mercy",
+  "duration_ms": 219920,
+  "year": 2008,
+  "tempo": 129.911,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.964
+ },
+ {
+  "id": 34,
+  "artist": "mary j. blige",
+  "song": "family affair",
+  "duration_ms": 265866,
+  "year": 2001,
+  "tempo": 92.887,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.969
+ },
+ {
+  "id": 42,
+  "artist": "black eyed peas",
+  "song": "let's get it started - spike mix",
+  "duration_ms": 217733,
+  "year": 2004,
+  "tempo": 104.923,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.797
+ },
+ {
+  "id": 48,
+  "artist": "cobra starship",
+  "song": "you make me feel... (feat. sabi)",
+  "duration_ms": 215693,
+  "year": 2011,
+  "tempo": 131.959,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.748
+ },
+ {
+  "id": 51,
+  "artist": "pedro capó",
+  "song": "calma - remix",
+  "duration_ms": 238200,
+  "year": 2018,
+  "tempo": 126.899,
+  "genre": "pop, latin",
+  "instrumentalness": 0.761
+ },
+ {
+  "id": 53,
+  "artist": "g-unit",
+  "song": "wanna get to know you",
+  "duration_ms": 265026,
+  "year": 2003,
+  "tempo": 76.91,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.889
+ },
+ {
+  "id": 55,
+  "artist": "katy perry",
+  "song": "part of me",
+  "duration_ms": 216160,
+  "year": 2012,
+  "tempo": 130.028,
+  "genre": "pop",
+  "instrumentalness": 0.769
+ },
+ {
+  "id": 59,
+  "artist": "paramore",
+  "song": "misery business",
+  "duration_ms": 211520,
+  "year": 2007,
+  "tempo": 172.977,
+  "genre": "pop, rock",
+  "instrumentalness": 0.731
+ },
+ {
+  "id": 60,
+  "artist": "eminem",
+  "song": "the real slim shady",
+  "duration_ms": 284200,
+  "year": 2000,
+  "tempo": 104.504,
+  "genre": "hip hop",
+  "instrumentalness": 0.76
+ },
+ {
+  "id": 62,
+  "artist": "tom jones",
+  "song": "sexbomb",
+  "duration_ms": 211893,
+  "year": 1999,
+  "tempo": 122.979,
+  "genre": "rock, folk/acoustic, easy listening",
+  "instrumentalness": 0.932
+ },
+ {
+  "id": 64,
+  "artist": "christina aguilera",
+  "song": "candyman",
+  "duration_ms": 194213,
+  "year": 2006,
+  "tempo": 172.976,
+  "genre": "pop",
+  "instrumentalness": 0.72
+ },
+ {
+  "id": 67,
+  "artist": "wiley",
+  "song": "wearing my rolex - radio edit",
+  "duration_ms": 170480,
+  "year": 2008,
+  "tempo": 131.942,
+  "genre": "hip hop, dance/electronic",
+  "instrumentalness": 0.755
+ },
+ {
+  "id": 68,
+  "artist": "robin thicke",
+  "song": "blurred lines",
+  "duration_ms": 263053,
+  "year": 2013,
+  "tempo": 120.0,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.881
+ },
+ {
+  "id": 73,
+  "artist": "no doubt",
+  "song": "it's my life",
+  "duration_ms": 226053,
+  "year": 2003,
+  "tempo": 126.326,
+  "genre": "rock, pop",
+  "instrumentalness": 0.783
+ },
+ {
+  "id": 74,
+  "artist": "little mix",
+  "song": "black magic",
+  "duration_ms": 211773,
+  "year": 2015,
+  "tempo": 111.987,
+  "genre": "pop",
+  "instrumentalness": 0.843
+ },
+ {
+  "id": 76,
+  "artist": "lil wayne",
+  "song": "a milli",
+  "duration_ms": 221840,
+  "year": 2008,
+  "tempo": 151.486,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.773
+ },
+ {
+  "id": 77,
+  "artist": "ashanti",
+  "song": "rock wit u (awww baby)",
+  "duration_ms": 209120,
+  "year": 2003,
+  "tempo": 94.998,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.849
+ },
+ {
+  "id": 81,
+  "artist": "cheryl",
+  "song": "fight for this love",
+  "duration_ms": 223253,
+  "year": 2009,
+  "tempo": 122.988,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.727
+ },
+ {
+  "id": 84,
+  "artist": "nelly",
+  "song": "hey porsche",
+  "duration_ms": 209466,
+  "year": 2013,
+  "tempo": 115.995,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.952
+ },
+ {
+  "id": 90,
+  "artist": "girls aloud",
+  "song": "jump",
+  "duration_ms": 220360,
+  "year": 2003,
+  "tempo": 134.465,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.795
+ },
+ {
+  "id": 91,
+  "artist": "50 cent",
+  "song": "21 questions",
+  "duration_ms": 224440,
+  "year": 2003,
+  "tempo": 92.729,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.895
+ },
+ {
+  "id": 92,
+  "artist": "mark ronson",
+  "song": "valerie (feat. amy winehouse) - version revisited",
+  "duration_ms": 219413,
+  "year": 2007,
+  "tempo": 105.828,
+  "genre": "pop",
+  "instrumentalness": 0.896
+ },
+ {
+  "id": 93,
+  "artist": "eric prydz",
+  "song": "pjanoo - radio edit",
+  "duration_ms": 157432,
+  "year": 2008,
+  "tempo": 125.99,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.836
+ },
+ {
+  "id": 96,
+  "artist": "orson",
+  "song": "no tomorrow",
+  "duration_ms": 167493,
+  "year": 2006,
+  "tempo": 124.082,
+  "genre": "pop",
+  "instrumentalness": 0.735
+ },
+ {
+  "id": 97,
+  "artist": "kesha",
+  "song": "tik tok",
+  "duration_ms": 199693,
+  "year": 2010,
+  "tempo": 120.028,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.714
+ },
+ {
+  "id": 102,
+  "artist": "eiffel 65",
+  "song": "move your body - gabry ponte original radio edit",
+  "duration_ms": 268863,
+  "year": 1999,
+  "tempo": 129.962,
+  "genre": "pop",
+  "instrumentalness": 0.96
+ },
+ {
+  "id": 110,
+  "artist": "ll cool j",
+  "song": "luv u better",
+  "duration_ms": 287000,
+  "year": 2002,
+  "tempo": 95.022,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.721
+ },
+ {
+  "id": 111,
+  "artist": "ray j",
+  "song": "sexy can i feat. yung berg",
+  "duration_ms": 204040,
+  "year": 2008,
+  "tempo": 172.155,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.926
+ },
+ {
+  "id": 128,
+  "artist": "kesha",
+  "song": "your love is my drug",
+  "duration_ms": 187133,
+  "year": 2010,
+  "tempo": 120.057,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.756
+ },
+ {
+  "id": 129,
+  "artist": "mary mary",
+  "song": "shackles (praise you)",
+  "duration_ms": 198346,
+  "year": 2000,
+  "tempo": 100.46,
+  "genre": "r&b",
+  "instrumentalness": 0.8
+ },
+ {
+  "id": 130,
+  "artist": "justin timberlake",
+  "song": "sexyback (feat. timbaland)",
+  "duration_ms": 242733,
+  "year": 2006,
+  "tempo": 117.0,
+  "genre": "pop",
+  "instrumentalness": 0.964
+ },
+ {
+  "id": 134,
+  "artist": "afroman",
+  "song": "because i got high",
+  "duration_ms": 197760,
+  "year": 2001,
+  "tempo": 166.01,
+  "genre": "hip hop",
+  "instrumentalness": 0.849
+ },
+ {
+  "id": 138,
+  "artist": "ludacris",
+  "song": "my chick bad",
+  "duration_ms": 216933,
+  "year": 2010,
+  "tempo": 84.789,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.757
+ },
+ {
+  "id": 139,
+  "artist": "ciara",
+  "song": "1, 2 step (feat. missy elliott) - main",
+  "duration_ms": 202213,
+  "year": 2005,
+  "tempo": 113.053,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.801
+ },
+ {
+  "id": 141,
+  "artist": "girls aloud",
+  "song": "something kinda ooooh",
+  "duration_ms": 201590,
+  "year": 2012,
+  "tempo": 131.925,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.879
+ },
+ {
+  "id": 143,
+  "artist": "dido",
+  "song": "thank you",
+  "duration_ms": 218360,
+  "year": 1999,
+  "tempo": 79.984,
+  "genre": "pop",
+  "instrumentalness": 0.762
+ },
+ {
+  "id": 147,
+  "artist": "ellie goulding",
+  "song": "lights - single version",
+  "duration_ms": 210853,
+  "year": 2010,
+  "tempo": 120.008,
+  "genre": "pop, rock, dance/electronic",
+  "instrumentalness": 0.78
+ },
+ {
+  "id": 148,
+  "artist": "timbaland",
+  "song": "give it to me",
+  "duration_ms": 234026,
+  "year": 2007,
+  "tempo": 110.621,
+  "genre": "hip hop, pop, r&b",
+  "instrumentalness": 0.815
+ },
+ {
+  "id": 151,
+  "artist": "erick sermon",
+  "song": "music (feat. marvin gaye)",
+  "duration_ms": 223133,
+  "year": 2001,
+  "tempo": 100.01,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.884
+ },
+ {
+  "id": 152,
+  "artist": "kelis",
+  "song": "milkshake",
+  "duration_ms": 182626,
+  "year": 2003,
+  "tempo": 112.968,
+  "genre": "pop, r&b, dance/electronic",
+  "instrumentalness": 0.759
+ },
+ {
+  "id": 153,
+  "artist": "sia",
+  "song": "the greatest (feat. kendrick lamar)",
+  "duration_ms": 210226,
+  "year": 2016,
+  "tempo": 191.944,
+  "genre": "pop",
+  "instrumentalness": 0.729
+ },
+ {
+  "id": 154,
+  "artist": "olly murs",
+  "song": "troublemaker (feat. flo rida)",
+  "duration_ms": 185586,
+  "year": 2012,
+  "tempo": 106.008,
+  "genre": "pop, dance/electronic",
+  "instrumentalness": 0.965
+ },
+ {
+  "id": 165,
+  "artist": "no doubt",
+  "song": "hey baby",
+  "duration_ms": 207040,
+  "year": 2001,
+  "tempo": 93.63,
+  "genre": "rock, pop",
+  "instrumentalness": 0.746
+ },
+ {
+  "id": 167,
+  "artist": "two door cinema club",
+  "song": "what you know",
+  "duration_ms": 189693,
+  "year": 2010,
+  "tempo": 139.048,
+  "genre": "world/traditional, rock, pop",
+  "instrumentalness": 0.841
+ },
+ {
+  "id": 172,
+  "artist": "sofía reyes",
+  "song": "1, 2, 3 (feat. jason derulo & de la ghetto)",
+  "duration_ms": 201526,
+  "year": 2018,
+  "tempo": 94.968,
+  "genre": "pop, latin",
+  "instrumentalness": 0.794
+ },
+ {
+  "id": 184,
+  "artist": "bodyrockers",
+  "song": "i like the way - radio edit",
+  "duration_ms": 200053,
+  "year": 2005,
+  "tempo": 127.988,
+  "genre": "rock, dance/electronic",
+  "instrumentalness": 0.777
+ },
+ {
+  "id": 185,
+  "artist": "ellie goulding",
+  "song": "on my mind",
+  "duration_ms": 213445,
+  "year": 2015,
+  "tempo": 154.943,
+  "genre": "pop, rock, dance/electronic",
+  "instrumentalness": 0.742
+ },
+ {
+  "id": 190,
+  "artist": "britney spears",
+  "song": "lucky",
+  "duration_ms": 206226,
+  "year": 2000,
+  "tempo": 95.026,
+  "genre": "pop",
+  "instrumentalness": 0.966
+ },
+ {
+  "id": 194,
+  "artist": "debelah morgan",
+  "song": "dance with me",
+  "duration_ms": 220106,
+  "year": 2000,
+  "tempo": 115.005,
+  "genre": "pop, r&b",
+  "instrumentalness": 0.74
+ },
+ {
+  "id": 196,
+  "artist": "kid cudi",
+  "song": "day 'n' nite (nightmare)",
+  "duration_ms": 221240,
+  "year": 2009,
+  "tempo": 138.018,
+  "genre": "hip hop",
+  "instrumentalness": 0.803
+ },
+ {
+  "id": 208,
+  "artist": "ayo & teo",
+  "song": "rolex",
+  "duration_ms": 238586,
+  "year": 2017,
+  "tempo": 144.946,
+  "genre": "hip hop, pop",
+  "instrumentalness": 0.789
+ }
+]
