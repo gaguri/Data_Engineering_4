@@ -3,7 +3,7 @@ import json
 from database import connect_to_database
 
 def read_pickle():
-    with open(r'49\tasks\2\subitem.pkl', 'rb') as file:
+    with open('./tasks/2/subitem.pkl', 'rb') as file:
         data = pickle.load(file)
     return data
 
@@ -84,8 +84,8 @@ create_table(db)
 insert_data(db, items)
 db.commit()
 
-save_items(r'49\results2\task_2_query_1.json', first_query(db))
-save_items(r'49\results2\task_2_query_2.json', second_query(db))
-save_items(r'49\results2\task_2_query_3.json', third_query(db))
+save_items('./results2/task_2_query_1.json', first_query(db))
+save_items('./results2/task_2_query_2.json', second_query(db))
+save_items('./results2/task_2_query_3.json', third_query(db))
 
 db.close()
