@@ -4,7 +4,7 @@ from database import connect_to_database
 
 def read_csv():
     items = []
-    with open(r'49\tasks\1\item.csv', 'r', encoding='utf-8') as file:
+    with open('./tasks/1/item.csv', 'r', encoding='utf-8') as file:
         data = csv.reader(file, delimiter=';')
         data.__next__()
         for row in data:
@@ -120,9 +120,9 @@ insert_data(db, items)
 db.commit()
 
 
-save_items(r'49\results1\task_1_query_1.json', first_query(db))
-save_items(r'49\results1\task_1_query_2.json', second_query(db))
-save_items(r'49\results1\task_1_query_3.json', third_query(db))
-save_items(r'49\results1\task_1_query_4.json', fourth_query(db))
+save_items('./results1/task_1_query_1.json', first_query(db))
+save_items('./results1/task_1_query_2.json', second_query(db))
+save_items('./results1/task_1_query_3.json', third_query(db))
+save_items('./results1/task_1_query_4.json', fourth_query(db))
 
 db.close()
