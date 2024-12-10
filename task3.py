@@ -4,7 +4,7 @@ from database import connect_to_database
 
 
 def read_text():
-    with open(r'49\tasks\3\_part_1.text', 'r', encoding='utf-8') as file:
+    with open('./tasks/3/_part_1.text', 'r', encoding='utf-8') as file:
         items = []
         item = {}
         for line in file:
@@ -30,7 +30,7 @@ def read_text():
             
 
 def read_msgpack():
-    with open(r'49\tasks\3\_part_2.msgpack', 'rb') as file:
+    with open('./tasks/3/_part_2.msgpack', 'rb') as file:
         updates = msgpack.unpack(file)
     for update in updates:
         update['artist'] = str(update['artist']).lower()
@@ -143,9 +143,9 @@ insert_data(db, data_text)
 insert_data(db, data_msgpack)
 db.commit()
 
-save_items(r'49\results3\task_3_query_1.json', first_query(db))
-save_items(r'49\results3\task_3_query_2.json', second_query(db))
-save_items(r'49\results3\task_3_query_3.json', third_query(db))
-save_items(r'49\results3\task_3_query_4.json', fourth_query(db))
+save_items('./results3/task_3_query_1.json', first_query(db))
+save_items('./results3/task_3_query_2.json', second_query(db))
+save_items('./results3/task_3_query_3.json', third_query(db))
+save_items('./results3/task_3_query_4.json', fourth_query(db))
 
 db.close()
