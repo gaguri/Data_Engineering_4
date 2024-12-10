@@ -4,7 +4,7 @@ from database import connect_to_database
 
 
 def read_text():
-    with open(r'49\tasks\4\_product_data.text', 'r', encoding='utf-8') as file:
+    with open('./tasks/4/_product_data.text', 'r', encoding='utf-8') as file:
         items = []
         item = {}
         for line in file:
@@ -63,7 +63,7 @@ def insert_data(db, data):
 
 
 def read_updates():
-    with open(r'49\tasks\4\_update_data.json', 'r', encoding='utf-8') as file:
+    with open('./tasks/4/_update_data.json', 'r', encoding='utf-8') as file:
         updates = json.load(file)
     return updates
 
@@ -213,9 +213,9 @@ insert_data(db, data)
 updates = read_updates()
 process_updates(db, updates)
 
-save_items(r'49\results4\task_4_query_1.json', first_query(db))
-save_items(r'49\results4\task_4_query_2.json', second_query(db))
-save_items(r'49\results4\task_4_query_3.json', third_query(db))
-save_items(r'49\results4\task_4_query_4.json', fourth_query(db))
+save_items('./results4/task_4_query_1.json', first_query(db))
+save_items('./results4/task_4_query_1.json', second_query(db))
+save_items('./results4/task_4_query_1.json', third_query(db))
+save_items('./results4/task_4_query_1.json', fourth_query(db))
 
 db.close()
