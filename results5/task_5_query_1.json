@@ -1,0 +1,302 @@
+[
+ {
+  "wine_id": 107854,
+  "variety": "Ramisco",
+  "price": 495.0,
+  "points": 93
+ },
+ {
+  "wine_id": 345,
+  "variety": "Muscat",
+  "price": 350.0,
+  "points": 100
+ },
+ {
+  "wine_id": 346,
+  "variety": "Muscadelle",
+  "price": 350.0,
+  "points": 98
+ },
+ {
+  "wine_id": 351,
+  "variety": "Furmint",
+  "price": 320.0,
+  "points": 96
+ },
+ {
+  "wine_id": 2508,
+  "variety": "Tempranillo Blend",
+  "price": 300.0,
+  "points": 95
+ },
+ {
+  "wine_id": 31417,
+  "variety": "Terrantez",
+  "price": 236.0,
+  "points": 95
+ },
+ {
+  "wine_id": 349,
+  "variety": "Shiraz-Viognier",
+  "price": 225.0,
+  "points": 97
+ },
+ {
+  "wine_id": 45000,
+  "variety": "Verdelho",
+  "price": 220.0,
+  "points": 96
+ },
+ {
+  "wine_id": 7335,
+  "variety": "Prugnolo Gentile",
+  "price": 210.0,
+  "points": 100
+ },
+ {
+  "wine_id": 31425,
+  "variety": "Bual",
+  "price": 194.0,
+  "points": 95
+ },
+ {
+  "wine_id": 6575,
+  "variety": "Tokaji",
+  "price": 175.0,
+  "points": 94
+ },
+ {
+  "wine_id": 122726,
+  "variety": "Francisa",
+  "price": 160.0,
+  "points": 91
+ },
+ {
+  "wine_id": 26404,
+  "variety": "Rosenmuskateller",
+  "price": 150.0,
+  "points": 92
+ },
+ {
+  "wine_id": 43634,
+  "variety": "Mission",
+  "price": 150.0,
+  "points": 96
+ },
+ {
+  "wine_id": 59977,
+  "variety": "Cabernet-Shiraz",
+  "price": 150.0,
+  "points": 96
+ },
+ {
+  "wine_id": 26535,
+  "variety": "Malbec-Cabernet",
+  "price": 130.0,
+  "points": 93
+ },
+ {
+  "wine_id": 4638,
+  "variety": "Cabernet Sauvignon-Malbec",
+  "price": 125.0,
+  "points": 94
+ },
+ {
+  "wine_id": 85620,
+  "variety": "Tinta Negra Mole",
+  "price": 112.0,
+  "points": 92
+ },
+ {
+  "wine_id": 120551,
+  "variety": "Mazuelo",
+  "price": 105.0,
+  "points": 91
+ },
+ {
+  "wine_id": 4154,
+  "variety": "Nerello Mascalese",
+  "price": 100.0,
+  "points": 92
+ },
+ {
+  "wine_id": 4912,
+  "variety": "Malbec-Cabernet Sauvignon",
+  "price": 100.0,
+  "points": 91
+ },
+ {
+  "wine_id": 115596,
+  "variety": "Bobal",
+  "price": 100.0,
+  "points": 92
+ },
+ {
+  "wine_id": 9775,
+  "variety": "Gelber Muskateller",
+  "price": 99.0,
+  "points": 92
+ },
+ {
+  "wine_id": 168,
+  "variety": "Merlot",
+  "price": 95.0,
+  "points": 91
+ },
+ {
+  "wine_id": 6452,
+  "variety": "Corvina, Rondinella, Molinara",
+  "price": 95.0,
+  "points": 91
+ },
+ {
+  "wine_id": 16492,
+  "variety": "Corvina",
+  "price": 95.0,
+  "points": 93
+ },
+ {
+  "wine_id": 8394,
+  "variety": "Cabernet Blend",
+  "price": 95.0,
+  "points": 92
+ },
+ {
+  "wine_id": 5498,
+  "variety": "Tinto Fino",
+  "price": 90.0,
+  "points": 93
+ },
+ {
+  "wine_id": 3012,
+  "variety": "Tinta de Toro",
+  "price": 90.0,
+  "points": 92
+ },
+ {
+  "wine_id": 556,
+  "variety": "Tempranillo",
+  "price": 88.0,
+  "points": 93
+ },
+ {
+  "wine_id": 14464,
+  "variety": "Vitovska",
+  "price": 85.0,
+  "points": 91
+ },
+ {
+  "wine_id": 16140,
+  "variety": "Cabernet Sauvignon-Merlot",
+  "price": 85.0,
+  "points": 93
+ },
+ {
+  "wine_id": 35122,
+  "variety": "Tempranillo-Cabernet Sauvignon",
+  "price": 80.0,
+  "points": 91
+ },
+ {
+  "wine_id": 119,
+  "variety": "Riesling",
+  "price": 80.0,
+  "points": 92
+ },
+ {
+  "wine_id": 45451,
+  "variety": "Pinot Noir-Syrah",
+  "price": 80.0,
+  "points": 93
+ },
+ {
+  "wine_id": 63178,
+  "variety": "Carignan-Syrah",
+  "price": 80.0,
+  "points": 92
+ },
+ {
+  "wine_id": 8234,
+  "variety": "Vidal Blanc",
+  "price": 77.0,
+  "points": 92
+ },
+ {
+  "wine_id": 50556,
+  "variety": "Tocai Friulano",
+  "price": 75.0,
+  "points": 91
+ },
+ {
+  "wine_id": 22516,
+  "variety": "Mourvèdre-Syrah",
+  "price": 75.0,
+  "points": 94
+ },
+ {
+  "wine_id": 62335,
+  "variety": "Mataro",
+  "price": 75.0,
+  "points": 94
+ },
+ {
+  "wine_id": 293,
+  "variety": "Shiraz",
+  "price": 70.0,
+  "points": 92
+ },
+ {
+  "wine_id": 126782,
+  "variety": "Pignolo",
+  "price": 70.0,
+  "points": 92
+ },
+ {
+  "wine_id": 120,
+  "variety": "Nebbiolo",
+  "price": 70.0,
+  "points": 92
+ },
+ {
+  "wine_id": 14796,
+  "variety": "Lagrein",
+  "price": 70.0,
+  "points": 91
+ },
+ {
+  "wine_id": 36696,
+  "variety": "Kekfrankos",
+  "price": 70.0,
+  "points": 91
+ },
+ {
+  "wine_id": 1884,
+  "variety": "Baga",
+  "price": 70.0,
+  "points": 93
+ },
+ {
+  "wine_id": 45348,
+  "variety": "Silvaner",
+  "price": 67.0,
+  "points": 93
+ },
+ {
+  "wine_id": 14109,
+  "variety": "Carmenère-Cabernet Sauvignon",
+  "price": 66.0,
+  "points": 92
+ },
+ {
+  "wine_id": 562,
+  "variety": "Petite Sirah",
+  "price": 65.0,
+  "points": 93
+ },
+ {
+  "wine_id": 11196,
+  "variety": "Grenache Blend",
+  "price": 65.0,
+  "points": 95
+ }
+]
